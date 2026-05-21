@@ -4,3 +4,4 @@
 
 <div align="center">   <a href="https://hymns.atabook.org/">atabook</a> <a href="https://rentry.co/edN">ext</a> <a href="https://x.com/hymngel">twitter</a> </div>
 <p aligen="center"
+<img src="https://komarev.com/ghpvc/?username=hymngel&color=3f323d&style=flat-square&label=( ◠‿◠ )" alt="Profile Views" /> 
